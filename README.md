@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there!
 
+- 👋 I'm @manuravela
 - 🔭 I’m interested in both Computer Science and Biology
 - 🌱 I’m currently a student at the University of Illinois at Chicago
 - 👯 I’m looking to collaborate on any projects within CS or Bio, or even better, both!
